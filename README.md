@@ -4,7 +4,10 @@
  - Run the `yarn install` command
  - Add a `.env` file the the root with a `PORT` & `JWT_SECRET` variable
  - Run `yarn server` and make sure you see the server is running on the port you set in the `.env` 
- 
+
+
+## API live at https://bublmarch25.herokuapp.com/
+
 ## Endpoints
 ### /auth
 |URI|TYPE|SEND|RECIEVE|
